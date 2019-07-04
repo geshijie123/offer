@@ -150,8 +150,10 @@ appendfsync everysec // always  每个操作实例化到磁盘  everysec（默�
 ![](https://user-gold-cdn.xitu.io/2019/7/4/16bbda50265f9592?w=1129&h=645&f=png&s=209906)
 ![](https://user-gold-cdn.xitu.io/2019/7/4/16bbda5223e3e1b2?w=883&h=557&f=png&s=163834)
 ![](https://user-gold-cdn.xitu.io/2019/7/4/16bbda5ec9ab76e3?w=871&h=559&f=png&s=213304)
-![](https://user-gold-cdn.xitu.io/2019/7/4/16bbda73d8fabe0e?w=869&h=554&f=png&s=206689)
-![](https://user-gold-cdn.xitu.io/2019/7/4/16bbda84e9a53840?w=1002&h=580&f=png&s=222795)
+
+![](https://user-gold-cdn.xitu.io/2019/7/4/16bbdb10ffca1472?w=903&h=553&f=png&s=207273)
+![](https://user-gold-cdn.xitu.io/2019/7/4/16bbdb14296f9fa0?w=890&h=502&f=png&s=183207)
+
 ![](https://user-gold-cdn.xitu.io/2019/7/4/16bbda90f0dbe942?w=955&h=553&f=png&s=222828)
 #### a可能会爆
 
